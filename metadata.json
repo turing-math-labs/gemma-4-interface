@@ -1,0 +1,6 @@
+{
+  "name": "Gemma Chat Interface",
+  "description": "A simple chat interface to interact with Gemma models on Hugging Face.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
